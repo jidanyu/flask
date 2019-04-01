@@ -11,8 +11,6 @@ def hello_world():
     return 'Hello World!222'
 
 
-
-
 if __name__ == '__main__':
     app.run()
 
